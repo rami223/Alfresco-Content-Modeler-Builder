@@ -1,0 +1,3 @@
+This utility will help you to build custom content model, it only build the custom content model xml file, and the admin must modify manually the rest two files you can specify if the field is required, default or multi-values list
+
+Source code in the download section
